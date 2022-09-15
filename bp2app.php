@@ -3,9 +3,9 @@ $codigo = $_REQUEST['codigo'];
 $nome = $_REQUEST['nome'];
 $objeto = $_REQUEST['objeto'];
 
-$servername = "193.123.127.132";
-$username = "ttrgoncalves";
-$password = "raggio983";
+$servername = "---.---.---.---";
+$username = "xxxxxxxxx";
+$password = "xxxxxxxxxx";
 $dbname = "bp2app";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
