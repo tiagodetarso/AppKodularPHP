@@ -2,9 +2,9 @@
 $codigo = $_REQUEST['codigo'];
 $valor = $_REQUEST['valor_min_venda'];
 
-$servername = "193.123.127.132";
-$username = "ttrgoncalves";
-$password = "raggio983";
+$servername = "---.---.---.---";
+$username = "xxxxxxxxx";
+$password = "xxxxxxxxxx";
 $dbname = "bp2app";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
