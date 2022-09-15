@@ -1,5 +1,5 @@
 <?php
-$codigo ='VT92728';
+$_REQUEST['codigo'];
 
 $servername = "---.---.---.---";
 $username = "xxxxxxxxx";
